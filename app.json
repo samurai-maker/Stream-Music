@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/899dfb2d8e4dddd76560a.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Sadew451/Stream-Music",
+  "repository": "https://github.com/samurai-maker/Stream-Music",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
