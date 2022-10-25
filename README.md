@@ -38,7 +38,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Stream-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samurai-maker/Stream-Music)
 
 Get pyrogram (p)  `SESSION` from here:
 
